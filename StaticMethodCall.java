@@ -16,6 +16,7 @@ public static void m3()
 }
 	public static void main(String[] args) {
 	m1();
+	
 	m2();
 	StaticMethodCall.m3();//but no need to write class name to call in same class
 	
